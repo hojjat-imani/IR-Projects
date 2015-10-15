@@ -1,0 +1,75 @@
+buffer size : 4
+duration : 54767   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 8
+duration : 41214   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 16
+duration : 28115   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 32
+duration : 22462   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 64
+duration : 19831   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 128
+duration : 17735   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 256
+duration : 16021   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 512
+duration : 15435   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 1024
+duration : 15323   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 2048
+duration : 15549   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 4096
+duration : 15170   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 8192
+duration : 14833   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 16384
+duration : 14948   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 32768
+duration : 14864   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 65536
+duration : 14904   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 131072
+duration : 15017   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 262144
+duration : 15261   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 524288
+duration : 15463   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 1048576
+duration : 15276   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 2097152
+duration : 15307   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 4194304
+duration : 15192   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 8388608
+duration : 15942   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 16777216
+duration : 15880   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 33554432
+duration : 16080   quran : 45322    serial : 13202   tatil : 28795
+--------------------------
+buffer size : 67108864
+duration : 15981   quran : 45322    serial : 13202   tatil : 28795
+--------------------------

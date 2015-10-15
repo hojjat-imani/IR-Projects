@@ -1,0 +1,9 @@
+buffer size : 1048576
+duration:65945 quran:4083 serial:2322 tatil:4534 maxQuran:240 maxSerial:65 maxTatil:89
+--------------------------
+buffer size : 524288
+duration:60123 quran:4084 serial:2322 tatil:4535 maxQuran:240 maxSerial:65 maxTatil:89
+--------------------------
+buffer size : 65536
+duration:62308 quran:4083 serial:2322 tatil:4534 maxQuran:240 maxSerial:65 maxTatil:89
+--------------------------
